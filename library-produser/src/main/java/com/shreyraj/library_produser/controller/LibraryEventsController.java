@@ -57,6 +57,4 @@ public class LibraryEventsController {
         }
         return null;
     }
-
-
 }
