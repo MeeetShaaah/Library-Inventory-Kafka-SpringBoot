@@ -1,2 +1,6 @@
-package com.shreyraj.library_consumer.entity;public class LibraryEventType {
+package com.shreyraj.library_consumer.entity;
+
+public enum LibraryEventType {
+    NEW,
+    UPDATE
 }
