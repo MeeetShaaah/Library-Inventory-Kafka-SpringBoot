@@ -39,7 +39,7 @@ A microservices-based Library Inventory System built with cutting-edge technolog
 
 ## Installation Steps
 ### Clone Repository
-git clone https://github.com/yourusername/library-inventory.git
+git clone https://github.com/MeeetShaaah/library-inventory.git
 cd library-inventory
 
 ### Build Project
